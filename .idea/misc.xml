@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/adama/AndroidStudioProjects/Buget_Manager/app/src/main/res/drawable/borders.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/adama/AndroidStudioProjects/Buget_Manager/app/src/main/res/drawable/ic_add.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/adama/AndroidStudioProjects/Buget_Manager/app/src/main/res/drawable/ic_entertainment.xml" value="0.1" />
+        <entry key="..\:/Users/adama/AndroidStudioProjects/Buget_Manager/app/src/main/res/layout/activity_account.xml" value="0.15443840579710144" />
+        <entry key="..\:/Users/adama/AndroidStudioProjects/Buget_Manager/app/src/main/res/layout/activity_budget.xml" value="0.1" />
+        <entry key="..\:/Users/adama/AndroidStudioProjects/Buget_Manager/app/src/main/res/layout/activity_choose_analytic.xml" value="0.1" />
+        <entry key="..\:/Users/adama/AndroidStudioProjects/Buget_Manager/app/src/main/res/layout/activity_daily_analytics.xml" value="0.1" />
+        <entry key="..\:/Users/adama/AndroidStudioProjects/Buget_Manager/app/src/main/res/layout/activity_history.xml" value="0.2046875" />
+        <entry key="..\:/Users/adama/AndroidStudioProjects/Buget_Manager/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/adama/AndroidStudioProjects/Buget_Manager/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/adama/AndroidStudioProjects/Buget_Manager/app/src/main/res/layout/activity_monthly_analystics.xml" value="0.2046875" />
+        <entry key="..\:/Users/adama/AndroidStudioProjects/Buget_Manager/app/src/main/res/layout/activity_registration.xml" value="0.209375" />
+        <entry key="..\:/Users/adama/AndroidStudioProjects/Buget_Manager/app/src/main/res/layout/activity_splash_screen.xml" value="0.18" />
+        <entry key="..\:/Users/adama/AndroidStudioProjects/Buget_Manager/app/src/main/res/layout/activity_today_spending.xml" value="0.1" />
+        <entry key="..\:/Users/adama/AndroidStudioProjects/Buget_Manager/app/src/main/res/layout/activity_week_spending.xml" value="0.1" />
+        <entry key="..\:/Users/adama/AndroidStudioProjects/Buget_Manager/app/src/main/res/layout/activity_weekly_analystics.xml" value="0.2046875" />
+        <entry key="..\:/Users/adama/AndroidStudioProjects/Buget_Manager/app/src/main/res/layout/input_layout.xml" value="0.1" />
+        <entry key="..\:/Users/adama/AndroidStudioProjects/Buget_Manager/app/src/main/res/layout/retrieve_layout.xml" value="0.209375" />
+        <entry key="..\:/Users/adama/AndroidStudioProjects/Buget_Manager/app/src/main/res/menu/menu.xml" value="0.2046875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

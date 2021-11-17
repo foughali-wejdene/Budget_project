@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Buget_Manager</string>
+    <string name="login_text">Créer un compte</string>
+    <string name="register_text">Déja un compte, Se connecter</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string-array name="items">
+        <item>Selectionne une catégorie</item>
+        <item>Transport</item>
+        <item>Courses</item>
+        <item>Maison</item>
+        <item>Education</item>
+        <item>Santé</item>
+        <item>Personnel</item>
+        <item>Sport</item>
+        <item>Charity</item>
+        <item>Apparel</item>
+        <item>Autres</item>
+
+    </string-array>
+
+</resources>
